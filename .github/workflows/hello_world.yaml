@@ -1,4 +1,4 @@
-name: test
+name: Execute Python script hello_world.py
 on:
   push:
     branches: [main]
